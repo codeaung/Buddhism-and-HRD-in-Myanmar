@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #FEC138;
+    --secondary-color: #39A6B2;
+    --tertiary-color: #024E76;
+}
+/* Universal Selector */
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
